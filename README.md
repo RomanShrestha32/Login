@@ -136,4 +136,5 @@ This project is open-source and can be modified and used under the terms of the 
 - **Future Implementations**: Suggests features that could enhance the application in the future, such as user roles, profile management, and improved security measures.
 
 -Roman Shrestha#   L o g i n  
+ #   l o g i n - r e g i s t e r  
  
